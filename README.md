@@ -36,6 +36,7 @@ I want to become a 'font-end developer' in sa gobal
 ### **Hobbies**
 - reading <br>
 - listening music <br>
-### **Strengths**
+### **Strengths&Weakness**
 - Hardworking
 - Logical thinking
+- lazyness
