@@ -3,7 +3,7 @@
 ### Personal Details
 - Name : Haritha.D <br>
 - Mailid : harithadantam@gmail.com <br>
-- Phone : +91 2365478912 <br>
+- Phone : +91 2365478956 <br>
 - Adress : kadapa <br>
 ### Educational Details
 **Degree**
