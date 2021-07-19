@@ -32,7 +32,7 @@
 - aws-50%
 
 ### **Goals**
-I want to become a 'font-end developer' in sa gobal
+I want to become a 'front-end developer' in sa global
 ### **Hobbies**
 - reading <br>
 - listening music <br>
